@@ -1,0 +1,9 @@
+pandas
+seaborn
+plotly
+matplotlib
+nbformat>=4.2.0
+unidecode
+geopandas
+shapely
+scikit-learn
